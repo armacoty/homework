@@ -1,0 +1,12 @@
+cls & cl 2.cpp & del 2.obj
+cls & cl 3.cpp & del 3.obj
+cls & cl 4.cpp & del 4.obj
+cls & cl 5.cpp & del 5.obj
+cls & cl 6.cpp & del 6.obj
+cls & cl 7.cpp & del 7.obj
+cls & cl 8.cpp & del 8.obj
+cls & cl 9.cpp & del 9.obj
+cls & cl 10.cpp & del 10.obj
+cls & cl 11.cpp & del 11.obj
+cls & cl 15.cpp & del 15.obj
+cls & cl 16.cpp & del 16.obj
