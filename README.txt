@@ -2,10 +2,9 @@ Via Vinogradov Alexander
 astronom_35@mail.ru
 astronom35.github.com
 
-КОМПИЛЯЦИЯ БЕЗ СОЗДАНИЯ ПРОЕКТОВ
+РљРђРљ РЎРљРћРњРџРР›РР РћР’РђРўР¬ Р¤РђР™Р›Р« Р‘Р•Р— РЎРћР—Р”РђРќРРЇ РџР РћР•РљРўРђ
 
-1)Запустите "Developer command prompt for Visual Studio".
-Он есть в меню пуск, в папке Visual Studio.
+1)Р—Р°РїСѓСЃС‚РёС‚Рµ "Developer command prompt for Visual Studio".
+РћРЅ РµСЃС‚СЊ РІ РјРµРЅСЋ РїСѓСЃРє, РІ РїР°РїРєРµ Visual Studio.
 
-2)Вызовите compile.bat из этой строки.
-
+2)Р’С‹Р·РѕРІРёС‚Рµ compile.bat РёР· РїРѕСЏРІРёРІС€РµРіРѕСЃСЏ С‚РµСЂРјРёРЅР°Р»Р°.
