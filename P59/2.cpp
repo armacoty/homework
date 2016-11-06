@@ -1,3 +1,8 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
+#include <cstdlib>
+#include <cmath>
+#include <string>
 int read_int(char* text)
 {
 	printf(text);
@@ -44,4 +49,11 @@ std::string to_hex(int n)
 		return to_hex(n / 16) + to_hex_char(n % 16);
 	else
 		return to_hex_char(n % 16);
+}
+
+void main()
+{
+	int n = read_int("N");
+	std::cout << to_hex(n) << std::endl;
+	std::system("pause");
 }
