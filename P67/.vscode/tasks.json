@@ -5,9 +5,9 @@
 	"tasks": [
         {
             "taskName": "build",
-            "command": "cl",
+            "command": "g++",
             "isShellCommand": true,
-            "args": ["${file}"],
+            "args": ["${file}", "-o", "${file}.out"],
 			"showOutput": "always"
         }
     ]
